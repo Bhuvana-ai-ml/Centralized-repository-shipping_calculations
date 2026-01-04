@@ -1,8 +1,5 @@
 
 # Here is a new update by -> Bhuvana-ai-ml
-
-#Here is another upate by -> Bhuvana-ai-ml
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
